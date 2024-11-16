@@ -1,8 +1,9 @@
 ## All Publications
 
 ### Preprints
-- **[P1]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach.
-- **[P2]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins. [[arxiv](https://arxiv.org/abs/2410.23639)]
+- **[P3]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design in DRL: Generative Diffusion Models and A Case Study of Mobile Communication Systems,” submitted to *IEEE International Conference on Communications* (Under review).
+- **[P2]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach.
+- **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins. [[arxiv](https://arxiv.org/abs/2410.23639)]
 
 ### Journals
 - **[J4]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, Min Hao, Dusit Niyato, “Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging,” *IEEE Wireless Communication Letters* (accepted). (IF=5.7, JCR Q1) [[IEEE Link](https://ieeexplore.ieee.org/document/10742922)]
@@ -12,6 +13,5 @@
 
 ### Conferences
 
-- **[C3]** Yunzhi Zhou, Min Hao, **Chen Shang**, Yagi Hu, Shengli Xie, Victor Kuzins, “Optimizing Multi-Device Wireless Power Transfer Systems: A Novel Decoupling Strategy with Bipolar Coils,”*IEEE International Conference on Computer Science Electronic Information Engineering and Intelligent Control Technology*. (*IEEE SMC Best Student Paper Awards*)
-- **[C2]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design in DRL: Generative Diffusion Models and A Case Study of Mobile Communication Systems,” submitted to *IEEE International Conference on Communications* (Under review).
+- **[C2]** Yunzhi Zhou, Min Hao, **Chen Shang**, Yagi Hu, Shengli Xie, Victor Kuzins, “Optimizing Multi-Device Wireless Power Transfer Systems: A Novel Decoupling Strategy with Bipolar Coils,”*IEEE International Conference on Computer Science Electronic Information Engineering and Intelligent Control Technology*. (*IEEE SMC Best Student Paper Awards*)
 - **[C1]** Siming Wang, Min Hao, **Chen Shang**, Wenchao Jiang,“C-V2X aided Vehicular Blockchain Sharding Incentive Mechanism in Vehicular Edge Computing,” *IEEE Global Communications Conference 2024* (accepted).
