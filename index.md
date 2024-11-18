@@ -19,8 +19,8 @@ My research primarily focuses on leveraging advanced deep learning (DL) and mach
 
 - **[Nov. 2024]** Our paper "UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach" is submitted to IEEE Internet of Things Journal.
 - **[Oct. 2024]** Our paper "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging" is accepted by IEEE Wireless Communications Letters.
-- **[Oct. 2024]** Our paper "Biologically-Inspired Technologies: Integrating Brain-Co Interface and Neuromorphic Computing for Human Digital Twins" is submitted to IEEE Wireless Communication.
-- **[Aug. 2024]** My first paper is accepted by IEEE Wireless Communications Letters. I sincerely thank all my co-authors for their support and contributions! This marks the formal beginning of my research career—here’s to continuous growth and improvement!
+- **[Oct. 2024]** Our paper "Biologically-Inspired Technologies: Integrating Brain-Co Interface and Neuromorphic Computing for Human Digital Twins" is submitted to IEEE's magazine.
+- **[Aug. 2024]** My first paper is accepted by IEEE Wireless Communications Letters. I sincerely thank all my co-authors and for their support and contributions! This marks the formal beginning of my research career—here’s to continuous growth and improvement!
 
 ## Awards
 - **[Nov. 2024]** IEEE SMC Best Student Paper Awards.
