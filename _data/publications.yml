@@ -5,7 +5,7 @@ main:
   - title: "Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
     #    conference_short: MICCAI
-    conference: Submitted to IEEE Wireless Communication
+    conference: Submitted to IEEE's Magazine
     pdf: https://arxiv.org/abs/2410.23639
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
