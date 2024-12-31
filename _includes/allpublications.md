@@ -3,7 +3,7 @@
 ### Preprints
 - **[P4]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to *IEEE TRANSACTIONS*
 - **[P3]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design in DRL: Generative Diffusion Models and A Case Study of Mobile Communication Systems,” submitted to *IEEE International Conference on Communications* (Under review).
-- **[P2]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach.
+- **[P2]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach,” is submitted to *IEEE Internet of Things Journal* (Major revision).
 - **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins. [[arxiv](https://arxiv.org/abs/2410.23639)]
 
 ### Journals
