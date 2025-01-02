@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 <p style="text-align: justify;">
 I am a Research Assistant at <strong>The Hong Kong University of Science and Technology (Guangzhou)(HKUSTGZ)</strong>, Guangzhou, China, working with 
-<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" target="_blank">Prof. Jiadong Yu</a>. Before joining HKUST (GZ), I was a Research Assistant at <strong>Singapore University of Technology and Design (SUTD)</strong>, Singapore, working with 
-<a href="https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/" target="_blank">Prof. Wenchao Jiang</a> and <a href="https://sites.google.com/view/zehuixiong" target="_blank">Prof. Zehui Xiong</a>.
-Additionally, I am deeply honored to receive continued guidance and support from <a href="https://sites.google.com/view/dinh-thai-hoang/" target="_blank">Prof. Hoang Dinh</a> at the University of Technology Sydney (UTS), Australia.
+<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" target="_blank">Dr. Jiadong Yu</a>. Before joining HKUST (GZ), I was a Research Assistant at <strong>Singapore University of Technology and Design (SUTD)</strong>, Singapore, working with 
+<a href="https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/" target="_blank">Dr. Wenchao Jiang</a> and <a href="https://sites.google.com/view/zehuixiong" target="_blank">Dr. Zehui Xiong</a>.
+Additionally, I am deeply honored to receive continued guidance and support from <a href="https://sites.google.com/view/dinh-thai-hoang/" target="_blank">Dr. Hoang Dinh</a> at the University of Technology Sydney (UTS), Australia.
 </p>
 
 ## Research Interests
