@@ -1,6 +1,15 @@
 
 main:
 
+  - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
+    authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
+    #    conference_short: MICCAI
+    conference: Submitted to IEEE's Magazine
+    pdf: https://arxiv.org/abs/2501.01038
+    #    code: https://github.com/MrGiovanni/ContinualLearning
+    #    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper/ISAC.png
+    notes: We propose an energy-efficient and intelligent ISAC system for V2X networks.
 
   - title: "Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang

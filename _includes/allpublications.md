@@ -1,10 +1,10 @@
 ## All Publications
 
 ### Preprints
-- **[P4]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to *IEEE Transactions*.
+- **[P4]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to IEEE Transactions.[[arxiv](https://arxiv.org/abs/2501.01038)]
 - **[P3]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design in DRL: Generative Diffusion Models and A Case Study of Mobile Communication Systems,” submitted to *IEEE International Conference on Communications* (Under review).
 - **[P2]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach,” submitted to *IEEE Internet of Things Journal* (Major revision).
-- **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins. [[arxiv](https://arxiv.org/abs/2410.23639)]
+- **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins," submitted to IEEE Magazine. [[arxiv](https://arxiv.org/abs/2410.23639)]
 
 ### Journals
 - **[J4]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, Min Hao, Dusit Niyato, “Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging,” *IEEE Wireless Communication Letters* (accepted). (IF=4.6, JCR Q1) [[IEEE Link](https://ieeexplore.ieee.org/document/10742922)]
