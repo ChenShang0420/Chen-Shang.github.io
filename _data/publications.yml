@@ -8,8 +8,8 @@ main:
     pdf: https://arxiv.org/abs/2506.22469)
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/paper/ISAC.png
-    notes: We propose an energy-efficient and intelligent ISAC system for V2X networks.
+    image: ./assets/img/paper/MM.png
+    notes: We leverage the advanced AI technologies to develop a multi-modal beamforming system.
 
   - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
