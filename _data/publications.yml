@@ -1,10 +1,19 @@
 
 main:
+  - title: "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks"
+  - authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu
+  - #    conference_short: MICCAI
+  - conference: Submitted to IEEE
+  - pdf: https://arxiv.org/abs/2506.22469)
+  - #    code: https://github.com/MrGiovanni/ContinualLearning
+  - #    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - image: ./assets/img/paper/ISAC.png
+  - notes: We propose an energy-efficient and intelligent ISAC system for V2X networks.
 
   - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
     #    conference_short: MICCAI
-    conference: Submitted to IEEE Transactions
+    conference: Submitted to IEEE
     pdf: https://arxiv.org/abs/2501.01038
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -14,30 +23,30 @@ main:
   - title: "Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
     #    conference_short: MICCAI
-    conference: Submitted to IEEE's Magazine
+    conference: Submitted to IEEE
     pdf: https://arxiv.org/abs/2410.23639
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper/BCI-1.png
     notes: We integrate the advanced biologically-inspired technologies with the Human Digital Twins.
 
-  - title: "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging"
-    authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu, Min Hao, Dusit Niyato
-#    conference_short: MICCAI
-    conference: IEEE Wireless Communications Letters
-    pdf: https://ieeexplore.ieee.org/document/10742922
-#    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/paper/framework-1.png
-    notes: We explores a novel UAV-assisted Metaverse construction framework.
-
-  - title: "Energy-Efficient Decentralized Federated Learning for UAV Swarms with Spiking Neural Networks and Leader Election Mechanism"
-    authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Min Hao, Dusit Niyato, Jiadong Yu
-#    conference_short: CVPR
-    conference: IEEE Wireless Communications Letters
-    pdf: https://ieeexplore.ieee.org/document/10636728
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: We introduce a leader election-assisted Spiking Neural Networks (SNNs)-driven decentralized FL framework for UAV swarm.
-    image: ./assets/img/paper/paper1-1.png
+#  - title: "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging"
+#    authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu, Min Hao, Dusit Niyato
+##    conference_short: MICCAI
+#    conference: IEEE Wireless Communications Letters
+#    pdf: https://ieeexplore.ieee.org/document/10742922
+##    code: https://github.com/MrGiovanni/ContinualLearning
+##    bibtex: https://bib.yliu.me/MICCAI23.txt
+#    image: ./assets/img/paper/framework-1.png
+#    notes: We explores a novel UAV-assisted Metaverse construction framework.
+#
+#  - title: "Energy-Efficient Decentralized Federated Learning for UAV Swarms with Spiking Neural Networks and Leader Election Mechanism"
+#    authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Min Hao, Dusit Niyato, Jiadong Yu
+##    conference_short: CVPR
+#    conference: IEEE Wireless Communications Letters
+#    pdf: https://ieeexplore.ieee.org/document/10636728
+##    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+##    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+##    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    notes: We introduce a leader election-assisted Spiking Neural Networks (SNNs)-driven decentralized FL framework for UAV swarm.
+#    image: ./assets/img/paper/paper1-1.png
