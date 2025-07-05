@@ -13,6 +13,7 @@
 - **[J1]** Zirui Zhang, Min Hao, Xumin Huang, **Chen Shang**, Rong Yu, Zehui Xiong, Ryan Wen Liu, “Social Attention Network Fused Multi-Patch Temporal-Variable Dependency Based Trajectory Prediction for Internet of Vehicles,” *IEEE Internet of Things Journal*, vol. 11, no. 19, pp. 32244-32258, Oct. 1, 2024. (IF=8.2, JCR Q1)    [[IEEE Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589564)]
 
 ### Conferences
+- **[C4]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks,” *submitted to IEEE International Conference*.
 - **[C3]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models,” *IEEE International Conference on Communications* (accepted).
 - **[C2]** Yunzhi Zhou, Min Hao, **Chen Shang**, Yagi Hu, Shengli Xie, Victor Kuzins, “Optimizing Multi-Device Wireless Power Transfer Systems: A Novel Decoupling Strategy with Bipolar Coils,”*IEEE International Conference on Computer Science Electronic Information Engineering and Intelligent Control Technology*. (*IEEE SMC Best Student Paper Awards*)
 - **[C1]** Siming Wang, Min Hao, **Chen Shang**, Wenchao Jiang,“C-V2X aided Vehicular Blockchain Sharding Incentive Mechanism in Vehicular Edge Computing,” *IEEE Global Communications Conference 2024* (accepted).
