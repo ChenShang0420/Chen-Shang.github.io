@@ -12,7 +12,7 @@ Additionally, I am deeply honored to receive continued guidance and support from
 
 ## Research Interests
 <p style="text-align: justify;">
-My research primarily focuses on leveraging advanced deep learning (DL) and machine learning (ML) algorithms to address potential challenges in wireless communication and related topics, such as UAVs, Integrated sensing and communication (ISAC), and the Metaverse. I am also passionate about learning new frameworks, such as generative models, to deepen my understanding and analysis of these complex topics.
+My research primarily focuses on leveraging advanced deep learning (DL) and machine learning (ML) algorithms to address potential challenges in wireless communication and related topics, such as Integrated sensing and communication (ISAC), wireless sensing, and UAVs. I am also passionate about learning new frameworks, such as generative models, to deepen my understanding and analysis of these complex topics.
 </p>
 
 ## News
