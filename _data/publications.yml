@@ -2,14 +2,14 @@
 main:
 
   - title: "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks"
-  - authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu
-  - #    conference_short: MICCAI
-  - conference: Submitted to IEEE
-  - pdf: https://arxiv.org/abs/2506.22469)
-  - #    code: https://github.com/MrGiovanni/ContinualLearning
-  - #    bibtex: https://bib.yliu.me/MICCAI23.txt
-  - image: ./assets/img/paper/ISAC.png
-  - notes: We propose an energy-efficient and intelligent ISAC system for V2X networks.
+    authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu
+     #    conference_short: MICCAI
+    conference: Submitted to IEEE
+    pdf: https://arxiv.org/abs/2506.22469)
+    #    code: https://github.com/MrGiovanni/ContinualLearning
+    #    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper/ISAC.png
+    notes: We propose an energy-efficient and intelligent ISAC system for V2X networks.
 
   - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
