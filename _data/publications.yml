@@ -14,7 +14,7 @@ main:
   - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
     #    conference_short: MICCAI
-    conference: Submitted to IEEE Transactions
+    conference: Submitted to IEEE
     pdf: https://arxiv.org/abs/2501.01038
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
