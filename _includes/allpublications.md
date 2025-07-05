@@ -1,7 +1,8 @@
 ## All Publications
 
 ### Preprints
-- **[P2]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to IEEE Transactions.[[arxiv](https://arxiv.org/abs/2501.01038)]
+- **[P2]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2506.22469)]
+- **[P2]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2501.01038)]
 - **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins," submitted to IEEE Magazine. [[arxiv](https://arxiv.org/abs/2410.23639)]
 
 ### Journals
