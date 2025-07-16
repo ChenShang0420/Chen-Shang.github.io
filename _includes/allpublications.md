@@ -1,11 +1,11 @@
 ## All Publications
 
 ### Preprints
-- **[P3]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2506.22469)]
-- **[P2]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2501.01038)]
+- **[P2]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2506.22469)]
 - **[P1]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins," submitted to IEEE Magazine. [[arxiv](https://arxiv.org/abs/2410.23639)]
 
 ### Journals
+- **[J6]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” *IEEE Transactions on Wireless Communications* (accepted). (IF=10.7, JCR Q1).[[arxiv](https://arxiv.org/abs/2501.01038)]
 - **[J5]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach,” *IEEE Internet of Things Journal* (accepted). (IF=8.2, JCR Q1)  [[IEEE Link](https://ieeexplore.ieee.org/document/10858287)]
 - **[J4]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, Min Hao, Dusit Niyato, “Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging,” *IEEE Wireless Communication Letters*. (IF=4.6, JCR Q1) [[IEEE Link](https://ieeexplore.ieee.org/document/10742922)]
 - **[J3]** **Chen Shang**, Dinh Thai Hoang, Min Hao, Dusit Niyato, Jiadong Yu, “Energy-Efficient Decentralized Federated Learning for UAV Swarms with Spiking Neural Networks and Leader Election Mechanism,” *IEEE Wireless Communications Letters*, vol. 13, no. 10, pp. 2742-2746, Oct. 2024. (IF=4.6, JCR Q1)  [[IEEE Link](https://ieeexplore.ieee.org/document/10636728)]
