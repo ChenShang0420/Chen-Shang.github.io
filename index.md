@@ -16,11 +16,12 @@ My research primarily focuses on leveraging advanced deep learning (DL) and mach
 </p>
 
 ## News
-- **[Jun. 2025]** Our paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" is submitted to IEEE.
-- **[Jan. 2025]** Our paper "UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach" is accepted by IEEE Internet of Things Journal.
-- **[Dec. 2024]** Our paper "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" is submitted to IEEE.
-- **[Oct. 2024]** Our paper "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging" is accepted by IEEE Wireless Communications Letters.
-- **[Oct. 2024]** Our paper "Biologically-Inspired Technologies: Integrating Brain-Co Interface and Neuromorphic Computing for Human Digital Twins" is submitted to IEEE's magazine.
+- **[July. 2025]** My paper "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" has been accepted by IEEE Transactions on Wireless Communications (IF=10.7).
+- **[Jun. 2025]** One paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" is submitted to IEEE.
+- **[Jan. 2025]** One paper "UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach" is accepted by IEEE Internet of Things Journal.
+- **[Dec. 2024]** One paper "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" is submitted to IEEE.
+- **[Oct. 2024]** One paper "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging" is accepted by IEEE Wireless Communications Letters.
+- **[Oct. 2024]** One paper "Biologically-Inspired Technologies: Integrating Brain-Co Interface and Neuromorphic Computing for Human Digital Twins" is submitted to IEEE's magazine.
 - **[Aug. 2024]** My first paper is accepted by IEEE Wireless Communications Letters. I sincerely thank all my co-authors and for their support and contributions! This marks the formal beginning of my research career—here’s to continuous growth and improvement!
 
 ## Awards
