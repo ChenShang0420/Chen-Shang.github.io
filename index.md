@@ -8,14 +8,11 @@ layout: homepage
 </style>
 ## About Me
 
-I am a Ph.D. student at the University of Technology Sydney (UTS), working under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/).  
-Before joining UTS, I worked as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), China, under the guidance of [Dr. Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu).  
-Prior to that, I was also a Research Assistant at the Singapore University of Technology and Design (SUTD), Singapore, where I worked with [Dr. Wenchao Jiang](https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/) and [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong).
+I am a Ph.D. student at the University of Technology Sydney (UTS), working under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/). Before joining UTS, I worked as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), China, under the guidance of [Dr. Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu). Prior to that, I was also a Research Assistant at the Singapore University of Technology and Design (SUTD), Singapore, where I worked with [Dr. Wenchao Jiang](https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/) and [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong).
 
 ## Research Interests
 
-My research primarily focuses on leveraging advanced deep learning (DL) and machine learning (ML) algorithms to address challenges in wireless communication and related topics, such as Integrated Sensing and Communication (ISAC), wireless sensing, and UAVs.  
-I am also passionate about learning new frameworks, such as generative models, to deepen my understanding of these complex topics.
+My research primarily focuses on leveraging advanced deep learning (DL) and machine learning (ML) algorithms to address challenges in wireless communication and related topics, such as Integrated Sensing and Communication (ISAC), wireless sensing, and UAVs. I am also passionate about learning new frameworks, such as generative models, to deepen my understanding of these complex topics.
 
 ## News
 
