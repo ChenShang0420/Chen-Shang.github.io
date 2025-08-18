@@ -1,6 +1,11 @@
 ---
 layout: homepage
 ---
+<style>
+  p, li {
+    text-align: justify !important;
+  }
+</style>
 ## About Me
 
 I am a Ph.D. student at the University of Technology Sydney (UTS), working under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/).  
