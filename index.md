@@ -3,7 +3,7 @@ layout: homepage
 ---
 <style>
   p, li {
-    text-align: justify;
+    text-align: justify !important;
   }
 </style>
 ## About Me
