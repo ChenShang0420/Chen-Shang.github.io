@@ -2,7 +2,7 @@
 layout: homepage
 ---
 <style>
-  p {
+  p, li {
     text-align: justify;
   }
 </style>
