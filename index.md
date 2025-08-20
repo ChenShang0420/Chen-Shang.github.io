@@ -16,13 +16,13 @@ My research primarily focuses on leveraging advanced deep learning (DL) and mach
 
 ## News
 
-- **[Aug. 2025]** Our paper *"Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks"* has been accepted by **IEEE Globecom 2025**.  
-- **[July. 2025]** Our paper *"Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"* has been accepted by **IEEE Transactions on Wireless Communications** (IF=10.7).  
-- **[Jun. 2025]** Submitted our paper *"Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks"* to IEEE.  
-- **[Jan. 2025]** Our paper *"UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach"* is accepted by **IEEE Internet of Things Journal**.  
-- **[Dec. 2024]** Submitted our work *"Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"* to IEEE.  
-- **[Oct. 2024]** Our paper *"Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging"* is accepted by **IEEE Wireless Communications Letters**.  
-- **[Oct. 2024]** Submitted *"Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins"* to an IEEE magazine.  
+- **[Aug. 2025]** Our paper "Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks" has been accepted by **IEEE Globecom 2025**.  
+- **[July. 2025]** Our paper "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" has been accepted by **IEEE Transactions on Wireless Communications** (IF=10.7).  
+- **[Jun. 2025]** Submitted our paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" to IEEE.  
+- **[Jan. 2025]** Our paper "UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach" is accepted by **IEEE Internet of Things Journal**.  
+- **[Dec. 2024]** Submitted our work "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" to IEEE.  
+- **[Oct. 2024]** Our paper "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging"* is accepted by **IEEE Wireless Communications Letters**.  
+- **[Oct. 2024]** Submitted "Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins"* to an IEEE magazine.  
 - **[Aug. 2024]** My first paper is accepted by **IEEE Wireless Communications Letters**. Sincere thanks to all co-authors — this marks the formal beginning of my research journey!
 
 ## Awards
