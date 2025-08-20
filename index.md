@@ -8,7 +8,7 @@ layout: homepage
 </style>
 ## About Me
 
-I am a Ph.D. student at the University of Technology Sydney (UTS), Australia, where I am supervised by [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/). Before joining UTS, I worked as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), China, under the guidance of [Dr. Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu). Prior to that, I was also a Research Assistant at the Singapore University of Technology and Design (SUTD), Singapore, where I worked with [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong) and [Dr. Wenchao Jiang](https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/).
+I am a Ph.D. student at the University of Technology Sydney (UTS), Australia, where I am supervised by [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/home). Before joining UTS, I worked as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), China, under the guidance of [Dr. Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu). Prior to that, I was also a Research Assistant at the Singapore University of Technology and Design (SUTD), Singapore, where I worked with [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong) and [Dr. Wenchao Jiang](https://istd.sutd.edu.sg/people/faculty/jiang-wenchao/).
 
 ## Research Interests
 
