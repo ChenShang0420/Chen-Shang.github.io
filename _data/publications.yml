@@ -14,7 +14,7 @@ main:
   - title: "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL"
     authors: <strong>Chen Shang</strong>, Jiadong Yu, Dinh Thai Hoang
     #    conference_short: MICCAI
-    conference: Submitted to IEEE
+    conference: IEEE Transactions on Wireless Communications (IF=10.7)
     pdf: https://arxiv.org/abs/2501.01038
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -39,7 +39,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper/framework-1.png
-    notes: We explores a novel UAV-assisted Metaverse construction framework.
+    notes: We explore a novel UAV-assisted Metaverse construction framework.
 
   - title: "Energy-Efficient Decentralized Federated Learning for UAV Swarms with Spiking Neural Networks and Leader Election Mechanism"
     authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Min Hao, Dusit Niyato, Jiadong Yu
