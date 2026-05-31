@@ -108,6 +108,95 @@
         
       </footer>
     </div>
+    <script>
+      (function () {
+        var excluded = 'script, style, textarea, code, pre, .clean-hyphen';
+
+        function replaceHyphens(textNode) {
+          if (!textNode.nodeValue || textNode.nodeValue.indexOf('-') === -1) {
+            return;
+          }
+
+          var fragment = document.createDocumentFragment();
+          var parts = textNode.nodeValue.split('-');
+
+          parts.forEach(function (part, index) {
+            if (part) {
+              fragment.appendChild(document.createTextNode(part));
+            }
+            if (index < parts.length - 1) {
+              var hyphen = document.createElement('span');
+              hyphen.className = 'clean-hyphen';
+              hyphen.textContent = '-';
+              fragment.appendChild(hyphen);
+            }
+          });
+
+          textNode.parentNode.replaceChild(fragment, textNode);
+        }
+
+        function normalizeHyphens() {
+          var walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            {
+              acceptNode: function (node) {
+                if (!node.parentElement || node.parentElement.closest(excluded)) {
+                  return NodeFilter.FILTER_REJECT;
+                }
+                return node.nodeValue.indexOf('-') === -1
+                  ? NodeFilter.FILTER_SKIP
+                  : NodeFilter.FILTER_ACCEPT;
+              }
+            }
+          );
+
+          var nodes = [];
+          while (walker.nextNode()) {
+            nodes.push(walker.currentNode);
+          }
+          nodes.forEach(replaceHyphens);
+        }
+
+        function setupNewsToggle() {
+          var news = document.querySelector('.news-collapsible');
+          if (!news) {
+            return;
+          }
+
+          var list = news.querySelector('ul');
+          if (!list || list.children.length <= 3) {
+            return;
+          }
+
+          news.classList.add('is-collapsed');
+
+          var button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'news-toggle';
+          button.setAttribute('aria-expanded', 'false');
+          button.textContent = 'Show more';
+
+          button.addEventListener('click', function () {
+            var collapsed = news.classList.toggle('is-collapsed');
+            button.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+            button.textContent = collapsed ? 'Show more' : 'Show less';
+          });
+
+          news.parentNode.insertBefore(button, news);
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', function () {
+            normalizeHyphens();
+            setupNewsToggle();
+          });
+        } else {
+          normalizeHyphens();
+          setupNewsToggle();
+        }
+      })();
+    </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
