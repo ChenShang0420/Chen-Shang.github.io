@@ -24,8 +24,8 @@ google_scholar: https://scholar.google.com.sg/citations?user=gPX5fZEAAAAJ&hl=zh-
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 #avatar: ./assets/img/avatar.JPG
 avatar: ./assets/img/good.jpg
-favicon: ./assets/img/slogon.png
-favicon_dark: ./assets/img/slogon.png
+favicon: ./assets/img/graduate-hat.png
+favicon_dark: ./assets/img/graduate-hat.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
