@@ -4,7 +4,7 @@
 - **[P1]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2506.22469)]
 
 ### Journals
-- **[J9]** **Chen Shang**, Dinh Thai Hoang, D. N. Nguyen, M. A. Alsheikh, I. Radwan, C. Kuhn, and D. Herath, “Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms,” *IEEE Journal on Selected Areas in Communications* (accepted), 2026. (IF=17.2, CCF A).
+- **[J9]** **Chen Shang**, Dinh Thai Hoang, D. N. Nguyen, M. A. Alsheikh, I. Radwan, C. Kuhn, and D. Herath, “Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms,” *IEEE Journal on Selected Areas in Communications* (accepted), 2026. (IF=17.2, CCF A). [[IEEE Link](https://ieeexplore.ieee.org/document/11554053)]
 - **[J8]** M. Hao, Y. Xu, M. Wu, J. Huang, **Chen Shang**, J. Wang, R. Zhang, J. Kang, D. Niyato, Z. Han, and W. Ni, “Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network,” *IEEE Wireless Communications* (accepted), 2026. (IF=11.5). [[arxiv](https://arxiv.org/abs/2603.11398)]
 - **[J7]** **Chen Shang**, J. Yu, and Dinh Thai Hoang, “Integrating brain-computer interface and neuromorphic computing for human digital twins,” *IEEE Communications Magazine* (accepted), 2026. (IF=8.2). [[IEEE Link](https://ieeexplore.ieee.org/document/11519588)]
 - **[J6]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” *IEEE Transactions on Wireless Communications* (accepted). (IF=10.7, JCR Q1).[[IEEE Link](https://ieeexplore.ieee.org/document/11091493)]
