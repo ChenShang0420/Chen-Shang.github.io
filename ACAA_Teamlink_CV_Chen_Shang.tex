@@ -1,0 +1,204 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[a4paper,margin=0.72in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+\pagestyle{empty}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue
+}
+
+\setlist[itemize]{
+  leftmargin=1.35em,
+  topsep=2pt,
+  itemsep=1pt,
+  parsep=0pt,
+  partopsep=0pt
+}
+
+\newcommand{\cvname}[1]{
+  {\centering\fontsize{20}{22}\selectfont\bfseries #1\par}
+}
+
+\newcommand{\cvcontact}[1]{
+  {\centering\small #1\par}
+}
+
+\newcommand{\sectionrule}[1]{
+  \vspace{0.55em}
+  {\large\bfseries #1\par}
+  \vspace{0.20em}
+  \hrule
+  \vspace{0.45em}
+}
+
+\newcommand{\datedentry}[4]{
+  \textbf{#1}\hfill #2\par
+  \textit{#3}\hfill #4\par
+}
+
+\newcommand{\pubitem}[1]{
+  \item #1
+}
+
+\begin{document}
+
+\cvname{CHEN SHANG}
+\cvcontact{Sydney, Australia \textbar\ +61 416 150 866 \textbar\ \href{mailto:chen.shang@student.uts.edu.au}{chen.shang@student.uts.edu.au} \textbar\ \href{mailto:chenshang0420@gmail.com}{chenshang0420@gmail.com}}
+\cvcontact{\href{https://chenshang0420.github.io/Chen-Shang.github.io/}{Personal Website} \textbar\ \href{https://scholar.google.com.sg/citations?user=gPX5fZEAAAAJ\&hl=zh-CN}{Google Scholar}}
+
+\sectionrule{RESEARCH PROFILE}
+Chen Shang is a Ph.D. student at the University of Technology Sydney (UTS), Australia, under the supervision of \href{https://sites.google.com/view/dinh-thai-hoang/home}{Prof. Hoang Dinh}. His research focuses on deep learning-enabled wireless communication and sensing systems, mainly Integrated Sensing and Communication (ISAC), multi-modal sensing, and intelligent wireless networks. He has authored or co-authored \textbf{14 top-tier IEEE papers}, including \textbf{5 first-author JCR Q1 journal/magazine papers} and \textbf{2 first-author IEEE flagship conference/workshop papers}. His current research is supported by the Australian National Road Safety Program through the project \href{https://researchprofiles.canberra.edu.au/en/projects/assistive-technologies-for-young-people-safety-on-two-wheelers/}{``Assistive Technologies for Young People Safety on Two-Wheelers,''} where his work on wireless communication and sensing systems aims to enable low-power, real-time, and reliable perception of road hazards and potential risks for safer young two-wheeler mobility.
+
+\sectionrule{RESEARCH INTERESTS}
+\begin{itemize}
+  \item Integrated Sensing and Communication (ISAC) and multi-modal sensing
+  \item Deep learning-enabled wireless communications and intelligent sensing
+  \item Low-power sensing, mobile platforms, and edge intelligence
+  \item Brain-computer interface signal processing and human digital twins
+  \item Privacy-preserving machine learning and homomorphic encryption
+\end{itemize}
+
+\sectionrule{EDUCATION}
+\datedentry{University of Technology Sydney}{Sydney, Australia}{Ph.D. in progress}{Aug. 2025 -- Present}
+\begin{itemize}
+  \item Research areas: ISAC, multi-modal sensing, deep learning-enabled wireless systems, edge intelligence, and privacy-preserving machine learning.
+\end{itemize}
+
+\datedentry{Guizhou University}{Guiyang, China}{Master of Electronic Information}{Sept. 2020 -- June 2023}
+\begin{itemize}
+  \item Core courses: communication systems and protocols, principles of digital communication, sensor principles and applications, digital signal processing, and graph theory and algorithms.
+\end{itemize}
+
+\datedentry{Nanjing Institute of Technology}{Nanjing, China}{Bachelor of Electronic Information Engineering}{Sept. 2016 -- June 2020}
+\begin{itemize}
+  \item Core courses: data structures, C, C++, communication theory, and mobile communications.
+\end{itemize}
+
+\sectionrule{RESEARCH EXPERIENCE}
+\datedentry{University of Technology Sydney}{Sydney, Australia}{Ph.D. Student / Research Assistant}{Aug. 2025 -- Present}
+\begin{itemize}
+  \item Conducting research on deep learning-enabled ISAC, multi-modal sensing, privacy-preserving machine learning, and intelligent wireless communication systems.
+  \item Serving as a Research Assistant on wireless communication and sensing systems for low-power, real-time, and safety-oriented perception in mobile sensing environments.
+\end{itemize}
+
+\datedentry{University of Canberra}{Canberra, Australia}{Research Assistant, UC--UTS Joint Project}{Aug. 2025 -- Present}
+\begin{itemize}
+  \item Contributing to the UC--UTS joint project \href{https://researchprofiles.canberra.edu.au/en/projects/assistive-technologies-for-young-people-safety-on-two-wheelers/}{``Assistive Technologies for Young People Safety on Two-Wheelers''} under the Australian National Road Safety Program.
+  \item Developing sensing-assisted learning methods for low-power sensors and aerial-to-ground mobile platforms to support real-time perception of road hazards and potential risks for safer young two-wheeler mobility.
+\end{itemize}
+
+\datedentry{The Hong Kong University of Science and Technology (Guangzhou)}{Guangzhou, China}{Research Assistant, Internet of Things Thrust}{July 2024 -- July 2025}
+\begin{itemize}
+  \item Worked on edge intelligence, reinforcement learning, federated learning, ISAC-enabled V2X networks, and AI-assisted wireless communication systems.
+  \item Developed learning-based methods for energy-efficient beamforming and intelligent resource allocation in next-generation wireless networks.
+\end{itemize}
+
+\datedentry{Singapore University of Technology and Design}{Singapore}{Research Assistant, Pillar of Information Systems Technology and Design}{July 2023 -- June 2024}
+\begin{itemize}
+  \item Focused on UAV communications, C-V2X, reinforcement learning, and federated learning under the Future Communication Research and Development Programme.
+  \item Collaborated on research toward UAV connectivity, mobility, and safety in intelligent communication systems.
+\end{itemize}
+
+% \datedentry{China Telecom}{China}{Big Data Engineer Intern}{June 2017 -- Sept. 2017}
+% \begin{itemize}
+%   \item Supported daily system operation and maintenance.
+% \end{itemize}
+
+\sectionrule{SELECTED RESEARCH IMPACT}
+\begin{itemize}
+  \item \textbf{AI-enabled road safety and assistive sensing:} Recent IEEE JSAC~\hyperlink{pub:jsac}{[1]} work is supported by the project \href{https://researchprofiles.canberra.edu.au/en/projects/assistive-technologies-for-young-people-safety-on-two-wheelers/}{``Assistive Technologies for Young People Safety on Two-Wheelers,''} funded by the National Road Safety Program under the Australian Government's Department of Infrastructure, Transport, Regional Development, Communications, and the Arts (Grant No. NRSAGP-TI1-A48). As one of the top-ranked JCR Q1 journals in Telecommunications, IEEE JSAC highlights the research excellence and real-world relevance of this work. This project aims to develop AI-enabled multi-modal sensing technologies for detecting road hazards and potential risks in real time, improving safety for young two-wheeler riders.
+  \item \textbf{Low-power and mobile sensing systems:} Research on ISAC, sensing-assisted wireless information and power transfer, and aerial-to-ground mobile platforms supports practical sensing systems that can operate under energy, mobility, and communication constraints. These techniques are relevant to road safety, smart transportation, environmental monitoring, and distributed sensor networks.
+  \item \textbf{Human-centric digital twin and BCI research:} Work on brain-computer interface signal processing, neuromorphic computing, and personalized federated learning supports future immersive communications, assistive human-machine interaction, and human digital twins, where sensing signals can be translated into personalized and responsive digital services.
+  \item \textbf{Privacy-aware intelligent systems:} Exploratory work on privacy-preserving machine learning and homomorphic encryption supports trustworthy collaboration over sensitive sensing, mobility, and human-related data, which is important for deploying AI systems beyond laboratory environments.
+  \item \textbf{Cross-institution collaboration:} Research experience and collaborations with UTS, University of Canberra, HKUST(GZ), and SUTD have supported interdisciplinary work across wireless communications, intelligent sensing, edge intelligence, and safety-oriented applications.
+\end{itemize}
+
+\sectionrule{PUBLICATIONS}
+\textbf{9 JCR Q1 Journal Papers, including 5 first-author papers}
+\begin{enumerate}[leftmargin=1.6em,itemsep=1pt,topsep=2pt]
+  \pubitem{\hypertarget{pub:jsac}{}\textbf{Chen Shang}, Dinh Thai Hoang, D. N. Nguyen, M. A. Alsheikh, I. Radwan, C. Kuhn, and D. Herath, ``Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms,'' \textit{IEEE Journal on Selected Areas in Communications} (JCR Q1), accepted, 2026. \textit{Supported by the National Road Safety Program project \href{https://researchprofiles.canberra.edu.au/en/projects/assistive-technologies-for-young-people-safety-on-two-wheelers/}{``Assistive Technologies for Young People Safety on Two-Wheelers''} (Grant No. NRSAGP-TI1-A48).}}
+  \pubitem{M. Hao, Y. Xu, M. Wu, J. Huang, \textbf{Chen Shang}, J. Wang, R. Zhang, J. Kang, D. Niyato, Z. Han, and W. Ni, ``Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network,'' \textit{IEEE Wireless Communications} (JCR Q1), accepted, 2026. \href{https://arxiv.org/abs/2603.11398}{arXiv}}
+  \pubitem{\textbf{Chen Shang}, J. Yu, and Dinh Thai Hoang, ``Integrating brain-computer interface and neuromorphic computing for human digital twins,'' \textit{IEEE Communications Magazine} (JCR Q1), accepted, 2026. \href{https://ieeexplore.ieee.org/document/11519588}{IEEE Xplore}}
+  \pubitem{\textbf{Chen Shang}, Jiadong Yu, and Dinh Thai Hoang, ``Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,'' \textit{IEEE Transactions on Wireless Communications} (JCR Q1), accepted. \href{https://ieeexplore.ieee.org/document/11091493}{IEEE Xplore}}
+  \pubitem{Min Hao, \textbf{Chen Shang}, Siming Wang, Wenchao Jiang, and Jiangtian Nie, ``UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach,'' \textit{IEEE Internet of Things Journal} (JCR Q1), accepted. \href{https://ieeexplore.ieee.org/document/10858287}{IEEE Xplore}}
+  \pubitem{\textbf{Chen Shang}, Dinh Thai Hoang, Jiadong Yu, Min Hao, and Dusit Niyato, ``Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging,'' \textit{IEEE Wireless Communications Letters} (JCR Q1). \href{https://ieeexplore.ieee.org/document/10742922}{IEEE Xplore}}
+  \pubitem{\textbf{Chen Shang}, Dinh Thai Hoang, Min Hao, Dusit Niyato, and Jiadong Yu, ``Energy-Efficient Decentralized Federated Learning for UAV Swarms with Spiking Neural Networks and Leader Election Mechanism,'' \textit{IEEE Wireless Communications Letters} (JCR Q1), vol. 13, no. 10, pp. 2742--2746, Oct. 2024. \href{https://ieeexplore.ieee.org/document/10636728}{IEEE Xplore}}
+  \pubitem{Xiaoxu Wang, Maoqiang Wu, Min Hao, \textbf{Chen Shang}, Rong Yu, Jiawen Kang, Zehui Xiong, and Yuan Wu, ``Digital Twin-assisted Safety Control for Connected Automated Vehicles in Mixed-Autonomy Traffics,'' \textit{IEEE Internet of Things Journal} (JCR Q1), accepted. \href{https://ieeexplore.ieee.org/document/10684822}{IEEE Xplore}}
+  \pubitem{Zirui Zhang, Min Hao, Xumin Huang, \textbf{Chen Shang}, Rong Yu, Jiawen Kang, Zehui Xiong, and Ryan Wen Liu, ``Social Attention Network Fused Multi-Patch Temporal-Variable Dependency Based Trajectory Prediction for Internet of Vehicles,'' \textit{IEEE Internet of Things Journal} (JCR Q1), vol. 11, no. 19, pp. 32244--32258, Oct. 2024. \href{https://ieeexplore.ieee.org/document/10589564}{IEEE Xplore}}
+\end{enumerate}
+
+\textbf{Conference Papers}
+\begin{enumerate}[leftmargin=1.6em,itemsep=1pt,topsep=2pt]
+  \pubitem{\textbf{Chen Shang}, Dinh Thai Hoang, D. N. Nguyen, and J. Yu, ``Spiking personalized federated learning for brain-computer interface-enabled immersive communications,'' \textit{INFOCOM Workshop}, accepted, 2026.}
+  \pubitem{\textbf{Chen Shang}, Jiadong Yu, and Dinh Thai Hoang, ``Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks,'' \textit{IEEE Global Communications Conference}, accepted, 2025. \href{https://ieeexplore.ieee.org/document/11431955}{IEEE Xplore}}
+  \pubitem{Xinren Zhang, \textbf{Chen Shang}, and Jiadong Yu, ``Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models,'' \textit{IEEE International Conference on Communications Workshop}, accepted. \href{https://ieeexplore.ieee.org/document/11162180}{IEEE Xplore}}
+  \pubitem{Yunzhi Zhou, Min Hao, \textbf{Chen Shang}, Yagi Hu, Shengli Xie, and Victor Kuzins, ``Optimizing Multi-Device Wireless Power Transfer Systems: A Novel Decoupling Strategy with Bipolar Coils,'' \textit{IEEE International Conference on Computer Science Electronic Information Engineering and Intelligent Control Technology}. \textit{IEEE SMC Best Student Paper Award}. \href{https://ieeexplore.ieee.org/document/10871425}{IEEE Xplore}}
+  \pubitem{Siming Wang, Min Hao, \textbf{Chen Shang}, and Wenchao Jiang, ``C-V2X aided Vehicular Blockchain Sharding Incentive Mechanism in Vehicular Edge Computing,'' \textit{IEEE Global Communications Conference}, accepted, 2024. \href{https://ieeexplore.ieee.org/document/10901669}{IEEE Xplore}}
+\end{enumerate}
+
+\textbf{Preprint}
+\begin{itemize}
+  \pubitem{\textbf{Chen Shang}, Dinh Thai Hoang, and Jiadong Yu, ``Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,'' submitted to IEEE journal. \href{https://arxiv.org/abs/2506.22469}{arXiv}}
+\end{itemize}
+
+\sectionrule{PATENTS AND SOFTWARE COPYRIGHTS}
+\textbf{Patents}
+\begin{itemize}
+  \pubitem{Sai Zou, Wenya Yang, \textbf{Chen Shang}, Hongfeng Gao, ``Rapid prediction and correlation mechanism analysis method for molecular targets,'' CN Patent No. 202211310770.7, June 2023. \href{https://worldwide.espacenet.com/patent/search/family/084906121/publication/CN115631808A?q=CN115631808A}{Espacenet}}
+  \pubitem{Hui Liao, \textbf{Chen Shang}, Ju Wang, Sai Zou, ``Labor education intelligent evaluation system for middle and primary schools,'' CN Patent No. 2021111534890.0, May 2022. \href{https://worldwide.espacenet.com/patent/search/family/081494856/publication/CN114493094A?q=CN114493094A}{Espacenet}}
+  \pubitem{Sai Zou, Hanyu Lu, Yongyi Yuan, \textbf{Chen Shang}, ``Method for generating web application slices in virtualized wireless access edge cloud,'' CN Patent No. 202110101819.7, June 2021. \href{https://worldwide.espacenet.com/patent/search/family/076051860/publication/CN112887142A?q=CN112887142A}{Espacenet}}
+\end{itemize}
+
+% \textbf{Software Copyrights}
+% \begin{itemize}
+%   \pubitem{\textbf{Chen Shang}, Hanyu Lu, Sai Zou, Guizhou University, ``Intelligent office system based on Python,'' CN Software Copyright No. 7826351, May 2021.}
+%   \pubitem{\textbf{Chen Shang}, Hanyu Lu, Sai Zou, Guizhou University, ``Protein Compound Recognition System Based on Matlab,'' CN Software Copyright No. 7827322, May 2021.}
+%   \pubitem{Hanyu Lu, \textbf{Chen Shang}, Sai Zou, Guizhou University, ``Essential Protein Identity System based on Python,'' CN Software Copyright No. 7827323, May 2021.}
+% \end{itemize}
+
+\sectionrule{AWARDS AND HONORS}
+\begin{itemize}
+  \item UTS International Research Scholarship (UTS IRS), Mar. 2026
+  \item UTS President's Scholarship, Mar. 2026
+  \item IEEE SMC Best Student Paper Award, Nov. 2024
+  \item First Prize of Science and Technology of China Commerce Federation, Dec. 2022
+\end{itemize}
+
+\sectionrule{ACADEMIC SERVICE}
+\begin{itemize}
+  \item Reviewer for IEEE Journal on Selected Areas in Communications (JSAC)
+  \item Reviewer for IEEE Transactions on Wireless Communications (TWC)
+  \item Reviewer for IEEE Transactions on Mobile Computing (TMC)
+  \item Reviewer for IEEE Internet of Things Journal (IoTJ)
+  \item Reviewer for IEEE Transactions on Communications (TCOM)
+  \item Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
+  \item Reviewer for IEEE Transactions on Network Science and Engineering (TNSE)
+  \item Reviewer for IEEE Transactions on Vehicular Technology (TVT)
+  \item Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
+  \item Reviewer for IEEE Wireless Communications Letters (WCL)
+  \item Reviewer for IEEE Communications Letters (CL)
+  \item Reviewer for IEEE Signal Processing Letters (SPL)
+\end{itemize}
+
+\sectionrule{TEACHING}
+\begin{itemize}
+  \item IoT Security (42036), University of Technology Sydney (UTS), Autumn 2026, Sydney.
+\end{itemize}
+
+\sectionrule{SELECTED LINKS}
+\begin{itemize}
+  \item Google Scholar: \href{https://scholar.google.com.sg/citations?user=gPX5fZEAAAAJ\&hl=zh-CN}{https://scholar.google.com.sg/citations?user=gPX5fZEAAAAJ\&hl=zh-CN}
+  \item Road safety project: \href{https://researchprofiles.canberra.edu.au/en/projects/assistive-technologies-for-young-people-safety-on-two-wheelers/}{Assistive Technologies for Young People Safety on Two-Wheelers}
+  \item IEEE Communications Magazine paper: \href{https://ieeexplore.ieee.org/document/11519588}{https://ieeexplore.ieee.org/document/11519588}
+\end{itemize}
+
+\end{document}
