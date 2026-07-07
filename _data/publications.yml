@@ -4,7 +4,7 @@ main:
   - title: "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks"
     authors: <strong>Chen Shang</strong>, Dinh Thai Hoang, Jiadong Yu
      #    conference_short: MICCAI
-    conference: Submitted to IEEE
+    conference: IEEE Transactions on Mobile Computing, accepted 2026
     pdf: https://arxiv.org/abs/2506.22469
     #    code: https://github.com/MrGiovanni/ContinualLearning
     #    bibtex: https://bib.yliu.me/MICCAI23.txt

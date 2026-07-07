@@ -1,11 +1,8 @@
 ## All Publications
 
-### Preprints
-- **[P1]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” submitted to IEEE Journal.[[arxiv](https://arxiv.org/abs/2506.22469)]
-
 ### Journals
-- **[J9]** **Chen Shang**, Dinh Thai Hoang, D. N. Nguyen, M. A. Alsheikh, I. Radwan, C. Kuhn, and D. Herath, “Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms,” *IEEE Journal on Selected Areas in Communications* (accepted), 2026. (IF=17.2, CCF A). [[IEEE Link](https://ieeexplore.ieee.org/document/11554053)]
-- **[J8]** M. Hao, Y. Xu, M. Wu, J. Huang, **Chen Shang**, J. Wang, R. Zhang, J. Kang, D. Niyato, Z. Han, and W. Ni, “Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network,” *IEEE Wireless Communications* (accepted), 2026. (IF=11.5). [[arxiv](https://arxiv.org/abs/2603.11398)]
+- **[J9]** **Chen Shang**, Dinh Thai Hoang, Jiadong Yu, “Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks,” *IEEE Transactions on Mobile Computing* (accepted), 2026. (IF=8.8, CCF A). [[arxiv](https://arxiv.org/abs/2506.22469)]
+- **[J8]** **Chen Shang**, Dinh Thai Hoang, D. N. Nguyen, M. A. Alsheikh, I. Radwan, C. Kuhn, and D. Herath, “Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms,” *IEEE Journal on Selected Areas in Communications* (accepted), 2026. (IF=17.2, CCF A). [[IEEE Link](https://ieeexplore.ieee.org/document/11554053)]
 - **[J7]** **Chen Shang**, J. Yu, and Dinh Thai Hoang, “Integrating brain-computer interface and neuromorphic computing for human digital twins,” *IEEE Communications Magazine* (accepted), 2026. (IF=8.2). [[IEEE Link](https://ieeexplore.ieee.org/document/11519588)]
 - **[J6]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL,” *IEEE Transactions on Wireless Communications* (accepted). (IF=10.7, JCR Q1).[[IEEE Link](https://ieeexplore.ieee.org/document/11091493)]
 - **[J5]** Min Hao, **Chen Shang**, Siming Wang, Wenchao Jiang, Jiangtian Nie, “UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach,” *IEEE Internet of Things Journal* (accepted). (IF=8.2, JCR Q1)  [[IEEE Link](https://ieeexplore.ieee.org/document/10858287)]

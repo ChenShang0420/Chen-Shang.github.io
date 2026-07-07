@@ -18,6 +18,7 @@ My research primarily focuses on leveraging advanced deep learning techniques to
 
 <div class="news-collapsible">
   <ul>
+    <li><strong>[July. 2026]</strong> My paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" has been accepted by <strong>IEEE Transactions on Mobile Computing</strong>.</li>
     <li><strong>[May. 2026]</strong> My paper "Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms" has been accepted by <strong>IEEE Journal on Selected Areas in Communications</strong> (IF=17.2, CCF A).</li>
     <li><strong>[May. 2026]</strong> Our paper "Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network" has been accepted by <strong>IEEE Wireless Communications</strong> (IF=11.5).</li>
     <li><strong>[Mar. 2026]</strong> My paper "Integrating brain-computer interface and neuromorphic computing for human digital twins" has been accepted by <strong>IEEE Communications Magazine</strong> (IF=8.2).</li>
@@ -26,7 +27,6 @@ My research primarily focuses on leveraging advanced deep learning techniques to
     <li><strong>[Aug 15. 2025]</strong> After a long wait, I finally began my Ph.D. journey at <strong>UTS</strong>. Best wishes to myself for the road ahead!</li>
     <li><strong>[Aug. 2025]</strong> My paper "Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks" has been accepted by <strong>IEEE Globecom 2025</strong>.</li>
     <li><strong>[July. 2025]</strong> My paper "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" has been accepted by <strong>IEEE Transactions on Wireless Communications</strong> (IF=10.7).</li>
-    <li><strong>[Jun. 2025]</strong> Submitted my paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" to IEEE.</li>
     <li><strong>[Jan. 2025]</strong> Our paper "UAV-Assisted Zero Knowledge Model Proof for Generative AI: A Multi-Agent Deep Reinforcement Learning Approach" is accepted by <strong>IEEE Internet of Things Journal</strong>.</li>
     <li><strong>[Dec. 2024]</strong> Submitted my work "Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL" to IEEE.</li>
     <li><strong>[Oct. 2024]</strong> My paper "Constructing the Metaverse with a New Perspective: UAV FoV-Assisted Low-Latency Imaging" is accepted by <strong>IEEE Wireless Communications Letters</strong>.</li>
