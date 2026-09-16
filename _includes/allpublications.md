@@ -12,6 +12,8 @@
 - **[J1]** Zirui Zhang, Min Hao, Xumin Huang, **Chen Shang**, Rong Yu, Jiawen Kang, Zehui Xiong, Ryan Wen Liu, “Social Attention Network Fused Multi-Patch Temporal-Variable Dependency Based Trajectory Prediction for Internet of Vehicles,” *IEEE Internet of Things Journal*, vol. 11, no. 19, pp. 32244-32258, Oct. 1, 2024. (IF=8.2, JCR Q1)    [[IEEE Link](https://ieeexplore.ieee.org/document/10589564)]
 
 ### Conferences
+- **[C7]** **Chen Shang**, Dinh Thai Hoang, Diep N. Nguyen, Carlos Kuhn, Yibeltal Fantahun Alem, and Mohammad Abu Alsheikh, “Learning-Aided IMM Filtering for Robust Predictive Beamforming in ISAC-Enabled V2X,” *IEEE Global Communications Conference 2026* (accepted).
+- **[C6]** **Chen Shang**, Dinh Thai Hoang, Diep N. Nguyen, and Jiadong Yu, “Robust Beam Prediction for V2X Networks with Multi-Modal Sensing,” *IEEE Global Communications Conference 2026* (accepted).
 - **[C5]** **Chen Shang**, Dinh Thai Hoang, D. N. Nguyen, and J. Yu, “Spiking personalized federated learning for brain-computer interface-enabled immersive communications,” *INFOCOM Workshop* (accepted), 2026. [[IEEE Link](https://ieeexplore.ieee.org/document/11571348)]
 - **[C4]** **Chen Shang**, Jiadong Yu, Dinh Thai Hoang, “Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks,” *IEEE Global Communications Conference 2025* (accepted). [[IEEE Link](https://ieeexplore.ieee.org/document/11431955)]
 - **[C3]** Xinren Zhang, **Chen Shang**, Jiadong Yu, “Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models,” *IEEE International Conference on Communications Workshop* (accepted). [[IEEE Link](https://ieeexplore.ieee.org/document/11162180)]

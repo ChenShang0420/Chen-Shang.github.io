@@ -18,6 +18,7 @@ My research primarily focuses on leveraging advanced deep learning techniques to
 
 <div class="news-collapsible">
   <ul>
+    <li><strong>[Aug. 2026]</strong> Two of my papers have been accepted by <strong>IEEE Globecom 2026</strong>.</li>
     <li><strong>[July. 2026]</strong> My paper "Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks" has been accepted by <strong>IEEE Transactions on Mobile Computing</strong> (IF=8.8, CCF A).</li>
     <li><strong>[May. 2026]</strong> My paper "Sensing-assisted SWITP with hybrid learning for low-power sensors on aerial-to-ground mobile platforms" has been accepted by <strong>IEEE Journal on Selected Areas in Communications</strong> (IF=17.2, CCF A).</li>
     <li><strong>[Mar. 2026]</strong> My paper "Integrating brain-computer interface and neuromorphic computing for human digital twins" has been accepted by <strong>IEEE Communications Magazine</strong> (IF=8.2).</li>
