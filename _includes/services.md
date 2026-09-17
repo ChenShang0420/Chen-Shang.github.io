@@ -17,4 +17,4 @@
 ## Teaching
 
 - **IoT Security (42037)**, University of Technology Sydney (UTS), Autumn 2026, Sydney.
-- **[Cybersecurity for Mobile Platforms (42036)](https://canvas.uts.edu.au/courses/40978)**, University of Technology Sydney (UTS), Spring 2026, Sydney.
+- **Cybersecurity for Mobile Platforms (42036)**, University of Technology Sydney (UTS), Spring 2026, Sydney.
