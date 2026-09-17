@@ -6,6 +6,7 @@
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Internet of Things Journal (IoTJ)
   - IEEE Transactions on Communications (TCOM)
+  - IEEE Transactions on Cognitive Communications and Networking (TCCN)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Network Science and Engineering (TNSE)
   - IEEE Transactions on Vehicular Technology (TVT)
